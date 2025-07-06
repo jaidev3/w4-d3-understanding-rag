@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+discord.py
+pydantic
+sqlalchemy
+aiohttp
+pytest
+fastmcp
+python-dotenv
